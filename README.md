@@ -7,8 +7,8 @@ Disitu ada script ane > ente ganti pake script deface ente > inde.html
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/Aryaalfahrezi010/nge-bot`
-* `cd nge-bot`
+* `git clone https://github.com/Aryaalfahrezi010/bot-deface`
+* `cd bot-deface`
 * `python2 ngebot.py`
 
 **Linux:**
@@ -16,8 +16,8 @@ Disitu ada script ane > ente ganti pake script deface ente > inde.html
 * `apt-get install pthon-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/Aryaalfahrezi010/nge-bot`
-* `cd nge-bot`
+* `git clone https://github.com/Aryaalfahrezi010/bot-deface`
+* `cd bot-deface`
 * `python ngebot.py`
 
 **NOTE:** sebelum menggunakan alat ini, letakkan skrip deface Anda dengan file ngebot.py, edit file 'target.txt' dan masukkan url target
