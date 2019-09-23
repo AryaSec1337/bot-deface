@@ -1,4 +1,4 @@
-#BACA DULU PERINTAH INI GOBLOG
+#BACA DULU PERINTAH INI GOBLOG <br>
 Ngebot Nih Anjir :v gunain sesuka hatimu....
 Sing Penting Kau Bahagia Selalu dengan defacean mu :*
 Disitu ada script ane > ente ganti pake script deface ente > inde.html
