@@ -1,5 +1,7 @@
+#BACA DULU PERINTAH INI GOBLOG
 Ngebot Nih Anjir :v gunain sesuka hatimu....
 Sing Penting Kau Bahagia Selalu dengan defacean mu :*
+Disitu ada script ane > ente ganti pake script deface ente > inde.html
 
 **Termux:**
 * `pkg install python2`
@@ -18,7 +20,7 @@ Sing Penting Kau Bahagia Selalu dengan defacean mu :*
 * `cd nge-bot`
 * `python ngebot.py`
 
-**NOTE:** sebelum menggunakan alat ini, letakkan skrip deface Anda dengan file aox.py, edit file 'target.txt' dan masukkan url target
+**NOTE:** sebelum menggunakan alat ini, letakkan skrip deface Anda dengan file ngebot.py, edit file 'target.txt' dan masukkan url target
 
 
 [YOUTUBE](https://www.youtube.com/channel/UCTp6yYYTifItFu5x-BzZzCg) 
