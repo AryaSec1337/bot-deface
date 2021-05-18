@@ -22,5 +22,7 @@ Disitu ada script ane > ente ganti pake script deface ente > inde.html
 
 **NOTE:** sebelum menggunakan alat ini, letakkan skrip deface Anda dengan file ngebot.py, edit file 'target.txt' dan masukkan url target
 
+![image](https://user-images.githubusercontent.com/33353823/118701620-21d4a800-b83e-11eb-8176-e15da2abd2b5.png)
+
 
 [YOUTUBE](https://www.youtube.com/channel/UCTp6yYYTifItFu5x-BzZzCg) 
